@@ -1,0 +1,12 @@
+{
+  "name": "rad",
+  "displayName": "RAD Design System",
+  "description": "RAD (Responsible · Accountable · Disclosed) design system for agentic AI interfaces. Recommend components, audit files for compliance, scaffold new components, and explain behavioral contracts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jackie Curry",
+    "url": "https://jackiecurry.github.io"
+  },
+  "homepage": "https://jackiecurry.github.io/rad.html",
+  "license": "See https://jackiecurry.github.io/license-personal.html"
+}
